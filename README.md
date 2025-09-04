@@ -4,7 +4,7 @@
   <img src="Badlion.png" alt="Badlion Logo" width="120"/>
 </p>
 
-This is the last official **Badlion Client** `.exe` installer released before Lunar Client replaced it with their own `.exe`.
+This is the last official **Badlion Client** `.exe` installer released before Lunar Client replaced it with their own `.exe`,
 
 Although this is intended for **archival and offline use**, the Badlion Client itself still functions **online** — including multiplayer features, cosmetics, and anticheat — as long as the official servers remain active.
 
