@@ -6,7 +6,7 @@
 
 This is the last official **Badlion Client** `.exe` installer released before Lunar Client replaced it with their own `.exe`,
 
-Although this is intended for **archival and offline use**, the Badlion Client itself still functions **online** — including multiplayer features, cosmetics, and anticheat — as long as the official servers remain active.
+Although this is intended for **archival and offline use**, the Badlion Client itself still functions **online** including multiplayer features, cosmetics, and anticheat as long as the official servers remain active.
 
 ---
 
@@ -33,7 +33,7 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 
 ---
 
-### 📎 Notes
+### 🔗 Notes
 
 - This is not an official mirror. It is for archival and preservation purposes only.
 - All rights to Badlion Client belong to their respective owners.
