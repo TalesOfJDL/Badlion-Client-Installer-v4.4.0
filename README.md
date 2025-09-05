@@ -30,3 +30,10 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 ### 🔒 VirusTotal Scan
 
 [View the VirusTotal scan results here](https://www.virustotal.com/gui/file/df1dc6af8819034c43c6e0b5131ef552e119b017ca3b7c0ef50d162a8a5afa51)
+
+---
+
+### 🔗 Notes
+
+- This is not an official mirror. It is for archival and preservation purposes only.
+- All rights to Badlion Client belong to their respective owners.
