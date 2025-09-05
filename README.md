@@ -18,6 +18,14 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 
 ---
 
+### 📝 File Hash (SHA-256):
+
+`df1dc6af8819034c43c6e0b5131ef552e119b017ca3b7c0ef50d162a8a5afa51`
+
+Make sure to verify this hash using the **SHA-256** algorithm to ensure the file's integrity.
+
+---
+
 ### 📦 Installation
 
 1. Download the `.exe` from the link above.
@@ -33,7 +41,7 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 
 ---
 
-### 🔗 Notes
+### 📎 Notes
 
 - This is not an official mirror. It is for archival and preservation purposes only.
 - All rights to Badlion Client belong to their respective owners.
